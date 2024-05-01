@@ -8,7 +8,7 @@ I graduated from Korkut Ata University, Department of Computer Programming. In m
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [bircanonur0@gmail.com](mailto:bircanonur0@gmail.com)
-* 🧠  I'm learning JavaScript
+* 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on interesting project
 
 ### Skills
